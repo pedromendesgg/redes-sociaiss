@@ -47,4 +47,15 @@ body{
         margin-top: 2rem;
         
     }
+    .graficos-container_texto{
+        font-size: 1.3rem;
+        text-align: center;
+        padding: 2rem;
+        border: var(--segundary-color) solid 2px;
+
+    }
+    span{
+    font-weight: bold;
+    color:var(--segundary-color);
+    }
     
